@@ -324,7 +324,7 @@ p{
   background-color: #00CFFF;
   padding: 2%;
   border-radius: 50px;
-  -webkit-transition:0.3s ease-in-out;
+  -webkit-transition:1.5s ease-in-out;
 }
 .details a:hover{
   -webkit-transform: rotate(360deg);
